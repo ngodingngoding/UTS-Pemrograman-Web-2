@@ -1,6 +1,6 @@
 |Nama|NIM|Kelas|Mata Kuliah|
 |----|---|-----|------|
-|**Bagas Prihantoro Putra**|**312310599**|**TI.23.A6**|**Pemrograman Web 2**|
+|**Arbi Bagaskara Putra**|**312310671**|**I241D**|**Pemrograman Web 2**|
 
 # Pembahasan Utama
 ## 1. Persiapan Lingkungan Pengembangan
